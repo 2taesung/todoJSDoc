@@ -2,7 +2,7 @@
 
 ## Usage
 
-[index.js] https://2taesung.github.io/todoJSDoc/docs/index.js.html
+[index.js](https://2taesung.github.io/todoJSDoc/docs/index.js.html).
 
 ### Install
 
